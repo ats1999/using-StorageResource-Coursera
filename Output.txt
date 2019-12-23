@@ -1,0 +1,6 @@
+Total proteins: 89
+Number of genees  is  89
+Gene 60 count: 17
+C-G Count: 36
+Longest gene is: 330
+CTG Count: 184

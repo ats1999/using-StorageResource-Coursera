@@ -6,3 +6,12 @@ This is the test case file. I have extracted it from "brca1line.fa" file.
 
 # "brca1line.fa" 
 This is the test case file given in the coursera assingment.
+
+# FindingAllGenes.java 
+This is the file contaning my solution
+
+# Output.txt
+This is output provided by my code
+
+# correct answer 
+Correct answer of Question :- How many genes are there in the file brca1line.fa that are longer than 60? ......  is 1
